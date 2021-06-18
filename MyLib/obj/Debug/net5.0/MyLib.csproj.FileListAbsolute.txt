@@ -1,0 +1,11 @@
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\bin\Debug\net5.0\MyLib.deps.json
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\bin\Debug\net5.0\MyLib.dll
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\bin\Debug\net5.0\ref\MyLib.dll
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\bin\Debug\net5.0\MyLib.pdb
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\obj\Debug\net5.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfo.cs
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\obj\Debug\net5.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\obj\Debug\net5.0\MyLib.dll
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\obj\Debug\net5.0\ref\MyLib.dll
+C:\Users\d.krishtofik\source\repos\HelloApp\MyLib\obj\Debug\net5.0\MyLib.pdb
