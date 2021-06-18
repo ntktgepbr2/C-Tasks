@@ -1,20 +1,20 @@
-﻿using System;
+﻿//using System;
 
-namespace HelloApp
-{
-    class Program {
-        public static void Main(string[] args)
-        {
+//namespace HelloApp
+//{
+//    class Program {
+//        public static void Main(string[] args)
+//        {
 
-            DateTimeTask getDate = new DateTimeTask();
+//            DateTimeTask getDate = new DateTimeTask();
 
-            getDate.DateOutput();
+//            getDate.DateOutput();
 
 
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.ReadLine();
-        }
+//            Console.ForegroundColor = ConsoleColor.Red;
+//            Console.ReadLine();
+//        }
 
-    }
+//    }
    
-}
+//}
